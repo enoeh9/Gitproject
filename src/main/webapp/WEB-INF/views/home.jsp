@@ -18,6 +18,11 @@
 	<p>브랜치 초기화 - 특정 커밋 지점으로 초기화 하는 기능</p>
 	<p>커밋 되돌리기</p>
 	<p>불필요한 내용 추가</p>
+	<ul>
+		<li>list 추가 1</li>
+		<li>list 추가 2</li>
+		<li>list 추가 3</li>
+	</ul>
 </body>
 <script></script>
 </html>
